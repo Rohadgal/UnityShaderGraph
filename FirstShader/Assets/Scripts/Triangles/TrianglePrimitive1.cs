@@ -36,6 +36,5 @@ public class TrianglePrimitive1 : MonoBehaviour {
         mesh.triangles = triangles;
         mesh.uv = uvs;
         meshRenderer.material = mat;
-
     }
 }
