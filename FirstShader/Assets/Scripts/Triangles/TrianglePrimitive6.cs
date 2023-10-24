@@ -25,9 +25,9 @@ public class TrianglePrimitive6 : MonoBehaviour
 
         Vector2[] uvs = new Vector2[mesh.vertices.Length];
 
-        uvs[0] = new Vector2(0.18f, 0.21f);  // e
-        uvs[1] = new Vector2(0.42f, 0.21f); // c
-        uvs[2] = new Vector2(0.29f, 0.38f);  // f
+        uvs[0] = new Vector2(0.41f, 0.95f);  // e
+        uvs[1] = new Vector2(0.29f, 0.78f);// c
+        uvs[2] = new Vector2(0.16f, 0.95f);   // f
 
 
         mesh.triangles = triangles;
