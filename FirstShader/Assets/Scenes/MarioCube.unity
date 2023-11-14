@@ -14747,7 +14747,7 @@ Transform:
   - {fileID: 438981993}
   - {fileID: 2091911868}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 270, y: 0, z: 0}
 --- !u!1 &391974569
 GameObject:
@@ -34382,7 +34382,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!114 &879880259
 MonoBehaviour:
@@ -39274,6 +39274,63 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel1_3: W
+--- !u!1001 &1250077464
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.557504
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.1279211
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.204969
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
+      propertyPath: m_Name
+      value: sword_Pirate
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad86d0ad03ea4ab42a63243dcdda894f, type: 3}
 --- !u!1 &1266845858
 GameObject:
   m_ObjectHideFlags: 0
@@ -39304,7 +39361,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1266845860
 MonoBehaviour:
@@ -39407,7 +39464,7 @@ Transform:
   - {fileID: 543450653359952811}
   - {fileID: 391974570}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1984486731
 MonoBehaviour:
@@ -44380,7 +44437,7 @@ Transform:
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!23 &1711813855428389060
 MeshRenderer:
