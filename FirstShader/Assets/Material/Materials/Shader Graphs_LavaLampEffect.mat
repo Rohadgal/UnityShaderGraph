@@ -47,7 +47,7 @@ Material:
     - _alphaClipping: 0
     - _speed: -1
     m_Colors:
-    - _Color: {r: 0.9529412, g: 0.23221387, b: 0, a: 0}
+    - _Color: {r: 1, g: 0.23333344, b: 0, a: 0.35686275}
   m_BuildTextureStacks: []
 --- !u!114 &1935724483012710044
 MonoBehaviour:
